@@ -1,2 +1,2 @@
 # ShowSystemInfo(WIP)
-Adriod package for viewing system's information.
+Android package for viewing system's information.
